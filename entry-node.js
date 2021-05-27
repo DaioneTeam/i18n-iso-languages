@@ -22,6 +22,7 @@ var locales = [
   require("./langs/sv.json"),
   require("./langs/no.json"),
   require("./langs/da.json"),
+  require("./langs/tw.json"),
   require("./langs/zh.json")
 ];
 
